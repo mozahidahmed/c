@@ -1,0 +1,29 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongodb": "^4.12.1"
+  },
+  "name": "across-task2-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "<h5>Client Code :  https://github.com/mozahidahmed/Across-task2-client</h5>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mozahidahmed/CRUD-operation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mozahidahmed/CRUD-operation/issues"
+  },
+  "homepage": "https://github.com/mozahidahmed/CRUD-operation#readme"
+}
